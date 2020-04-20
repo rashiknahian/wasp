@@ -1,0 +1,1 @@
+Wasp is a basic Bootstrap 4 and PHP starter template that you can download and use out of the box without having to change any file paths. Everything you need to start development on a Bootstrap 4 project is here, which includes the core Bootstrap CSS and JS bundle along with jQuery.
